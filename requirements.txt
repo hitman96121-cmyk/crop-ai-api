@@ -2,5 +2,5 @@ flask
 transformers
 torch
 requests
-googletrans-py3==1.1.0
+deep-translator
 gunicorn
