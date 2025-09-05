@@ -10,7 +10,7 @@ app = Flask(__name__)
 # Load Hugging Face model (disease detection)
 model_repo = "linkanjarad/mobilenet_v2_1.0_224-plant-disease-identification"
 hf_token = os.getenv("HF_TOKEN")  # stored in Render, not GitHub
-image_classifier = pipeline("image-classification", model=model_repo, use_auth_token=hf_token)
+image_classifier = pipeline("image-classification", model=model_repo)
 
 # Translator
 translator = GoogleTranslator(source="auto", target="en")
