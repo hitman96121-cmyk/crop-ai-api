@@ -1,0 +1,154 @@
+{
+  "Apple___Apple_scab": {
+    "symptoms": ["Olive-green spots on leaves", "Distorted or dropped leaves", "Scabby lesions on fruit"],
+    "remediation": "Remove and destroy fallen leaves, prune infected twigs, and apply fungicides such as captan or mancozeb during the growing season."
+  },
+  "Apple___Black_rot": {
+    "symptoms": ["Circular dark lesions on fruit", "Leaf spots with purple margins", "Cankers on branches"],
+    "remediation": "Prune out and burn infected branches, remove mummified fruit, and apply fungicides like thiophanate-methyl."
+  },
+  "Apple___Cedar_apple_rust": {
+    "symptoms": ["Yellow-orange leaf spots", "Swelling on twigs", "Fruit deformities"],
+    "remediation": "Remove nearby cedar trees if possible, apply fungicides early in the season, and use resistant apple varieties."
+  },
+  "Apple___healthy": {
+    "symptoms": [],
+    "remediation": "No action required, maintain regular orchard care practices."
+  },
+  "Blueberry___healthy": {
+    "symptoms": [],
+    "remediation": "Healthy plant, continue with routine irrigation, mulching, and pest monitoring."
+  },
+  "Cherry___Powdery_mildew": {
+    "symptoms": ["White powdery growth on leaves", "Leaf curling", "Reduced fruit quality"],
+    "remediation": "Improve air circulation, avoid overhead irrigation, and spray sulfur-based fungicides if needed."
+  },
+  "Cherry___healthy": {
+    "symptoms": [],
+    "remediation": "No issues detected, keep monitoring and provide balanced fertilization."
+  },
+  "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+    "symptoms": ["Gray to tan rectangular lesions on leaves", "Premature leaf death"],
+    "remediation": "Rotate crops, use resistant hybrids, and apply fungicides such as strobilurins if infection is severe."
+  },
+  "Corn___Common_rust": {
+    "symptoms": ["Small reddish-brown pustules on leaves", "Yellowing and reduced photosynthesis"],
+    "remediation": "Plant resistant varieties, rotate crops, and apply fungicides if infection spreads widely."
+  },
+  "Corn___Northern_Leaf_Blight": {
+    "symptoms": ["Large cigar-shaped tan lesions on leaves", "Reduced grain yield"],
+    "remediation": "Use resistant hybrids, practice crop rotation, and apply fungicides if needed."
+  },
+  "Corn___healthy": {
+    "symptoms": [],
+    "remediation": "No issues found, continue with regular care and irrigation."
+  },
+  "Grape___Black_rot": {
+    "symptoms": ["Brown circular lesions on leaves", "Shriveled black fruit mummies"],
+    "remediation": "Prune and remove infected parts, destroy mummified berries, and apply fungicides like myclobutanil."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "symptoms": ["Tiger-striped leaf discoloration", "Black spots on fruit", "Sudden vine death"],
+    "remediation": "Prune infected vines, avoid injuries, and replace severely infected plants with healthy stock."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "symptoms": ["Angular brown lesions with yellow halo", "Premature leaf drop"],
+    "remediation": "Remove and destroy infected leaves, apply protective fungicides, and ensure good airflow."
+  },
+  "Grape___healthy": {
+    "symptoms": [],
+    "remediation": "Healthy vine, continue pruning and proper irrigation."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "symptoms": ["Yellow shoots", "Asymmetrical leaf mottling", "Small, bitter fruits"],
+    "remediation": "Remove and destroy infected trees, control psyllid insect vectors, and plant disease-free stock."
+  },
+  "Peach___Bacterial_spot": {
+    "symptoms": ["Dark spots on leaves and fruit", "Leaf drop", "Fruit cracking"],
+    "remediation": "Plant resistant cultivars, prune for better airflow, and apply copper-based sprays."
+  },
+  "Peach___healthy": {
+    "symptoms": [],
+    "remediation": "No signs of disease, maintain irrigation and fertilization."
+  },
+  "Pepper_bell___Bacterial_spot": {
+    "symptoms": ["Small dark lesions on leaves", "Fruit scabs", "Leaf drop"],
+    "remediation": "Use certified disease-free seeds, apply copper sprays, and avoid overhead watering."
+  },
+  "Pepper_bell___healthy": {
+    "symptoms": [],
+    "remediation": "Plant is healthy, continue with standard nutrient management."
+  },
+  "Potato___Early_blight": {
+    "symptoms": ["Dark concentric rings on leaves", "Yellowing around spots"],
+    "remediation": "Rotate crops, destroy infected debris, and spray fungicides like chlorothalonil."
+  },
+  "Potato___Late_blight": {
+    "symptoms": ["Water-soaked leaf lesions", "White mold on undersides", "Tuber rot"],
+    "remediation": "Apply protective fungicides, avoid overhead irrigation, and destroy infected plants."
+  },
+  "Potato___healthy": {
+    "symptoms": [],
+    "remediation": "No disease present, keep monitoring and maintain soil health."
+  },
+  "Raspberry___healthy": {
+    "symptoms": [],
+    "remediation": "No action required, provide trellising and mulching as routine care."
+  },
+  "Soybean___healthy": {
+    "symptoms": [],
+    "remediation": "Healthy crop, maintain irrigation and pest monitoring."
+  },
+  "Squash___Powdery_mildew": {
+    "symptoms": ["White fungal patches on leaves", "Leaf curling", "Reduced yield"],
+    "remediation": "Improve ventilation, avoid water stress, and use sulfur or potassium bicarbonate sprays."
+  },
+  "Strawberry___Leaf_scorch": {
+    "symptoms": ["Dark purple leaf spots", "Dry, scorched edges"],
+    "remediation": "Remove infected leaves, use resistant varieties, and apply fungicides when necessary."
+  },
+  "Strawberry___healthy": {
+    "symptoms": [],
+    "remediation": "Plant is healthy, continue mulching and irrigation management."
+  },
+  "Tomato___Bacterial_spot": {
+    "symptoms": ["Small water-soaked spots on leaves", "Fruit lesions", "Leaf drop"],
+    "remediation": "Use pathogen-free seeds, apply copper fungicides, and rotate crops regularly."
+  },
+  "Tomato___Early_blight": {
+    "symptoms": ["Concentric rings on lower leaves", "Yellowing foliage"],
+    "remediation": "Remove infected leaves, apply fungicides like chlorothalonil, and rotate crops."
+  },
+  "Tomato___Late_blight": {
+    "symptoms": ["Water-soaked lesions on leaves", "White mold on stems", "Fruit rot"],
+    "remediation": "Destroy infected plants, apply fungicides like mancozeb, and avoid wet conditions."
+  },
+  "Tomato___Leaf_Mold": {
+    "symptoms": ["Yellow patches on upper leaf surface", "Velvety mold below leaves"],
+    "remediation": "Improve ventilation, stake plants, and apply fungicides if spread is severe."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "symptoms": ["Small circular spots with dark borders", "Premature leaf drop"],
+    "remediation": "Remove affected leaves, avoid overhead watering, and apply fungicides."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "symptoms": ["Yellow stippling on leaves", "Webbing on undersides"],
+    "remediation": "Spray with miticides or insecticidal soap, encourage natural predators like ladybugs."
+  },
+  "Tomato___Target_Spot": {
+    "symptoms": ["Brown spots with concentric rings", "Defoliation under humid conditions"],
+    "remediation": "Remove infected debris, rotate crops, and use fungicides if needed."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "symptoms": ["Yellow curling leaves", "Stunted growth", "Low fruit set"],
+    "remediation": "Control whitefly vectors, remove infected plants, and use resistant varieties."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "symptoms": ["Mottled leaves", "Distorted fruit", "Stunted growth"],
+    "remediation": "Remove and destroy infected plants, disinfect tools, and avoid tobacco handling near plants."
+  },
+  "Tomato___healthy": {
+    "symptoms": [],
+    "remediation": "Plant is healthy, continue proper irrigation, staking, and pest monitoring."
+  }
+}
