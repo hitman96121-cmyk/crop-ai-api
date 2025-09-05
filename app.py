@@ -3,7 +3,7 @@ import json
 import requests
 from flask import Flask, request, jsonify
 from transformers import pipeline
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 
 app = Flask(__name__)
 
@@ -13,7 +13,7 @@ hf_token = os.getenv("HF_TOKEN")  # stored in Render, not GitHub
 image_classifier = pipeline("image-classification", model=model_repo, use_auth_token=hf_token)
 
 # Translator
-translator = Translator()
+translator = GoogleTranslator(source="auto", target="en")
 
 # Load remediation data
 with open("remediation.json", "r", encoding="utf-8") as f:
