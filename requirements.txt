@@ -2,6 +2,6 @@ flask
 transformers
 torch
 requests
-googletrans==4.0.0-rc1
+googletrans==4.0.0rc1
 gunicorn
 httpx==0.24.1
